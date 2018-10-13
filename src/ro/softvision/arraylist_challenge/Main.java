@@ -128,31 +128,4 @@ public class Main {
                            "6  - to print a list of available actions.");
         System.out.println("Choose your action: ");
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
